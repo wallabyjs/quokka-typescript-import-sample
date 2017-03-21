@@ -1,0 +1,23 @@
+{
+  "name": "quokka-typescript-import-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyjs/quokka-typescript-import-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallabyjs/quokka-typescript-import-sample/issues"
+  },
+  "homepage": "https://github.com/wallabyjs/quokka-typescript-import-sample#readme",
+  "devDependencies": {
+    "ts-node": "^3.0.0",
+    "typescript": "^2.2.1"
+  }
+}
